@@ -4,14 +4,18 @@ Simple Category Management
 
 ## Step: 1
 php artisan key:gen
+
 ## Step 2
-php artisan migrae
+php artisan migrate
 
 ## Step 3
+
 php artisan db:seed
+
 ## Step 4
 php artisan serve
 
+## Login Details
 Email: rghunath@gmail.com
 Password: 123456
 
